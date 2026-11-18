@@ -1,0 +1,16 @@
+work/
+results/
+fastq/
+.nextflow/
+.nextflow.log*
+reference/*.fa
+reference/*.fai
+reference/*.bt2
+reference/chroms/
+reference/*.tar.gz
+*.sra
+.Rhistory
+.DS_Store
+__pycache__/
+*.pyc
+download_cache/

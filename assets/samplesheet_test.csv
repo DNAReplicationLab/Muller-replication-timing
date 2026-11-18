@@ -1,0 +1,3 @@
+sample,run,platform,layout,variant,role,strain,timepoint,series
+T7107_G2_SOLiD,SRR616663,ABI_SOLID,single,sortseq,nonRep,T7107,,GSE42243
+T7107_S_SOLiD,SRR616664,ABI_SOLID,single,sortseq,rep,T7107,,GSE42243

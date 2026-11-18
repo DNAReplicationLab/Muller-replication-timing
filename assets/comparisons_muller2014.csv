@@ -1,0 +1,13 @@
+comparison,rep,nonRep,variant,norm_mode,norm_value,description
+sortseq_T7107_SOLiD,T7107_S_SOLiD,T7107_G2_SOLiD,sortseq,auto,,Sort-seq: wild-type haploid T7107 (SOLiD)
+sortseq_T9475_SOLiD,T9475_S_SOLiD,T9475_G2_SOLiD,sortseq,auto,,Sort-seq: diploid T9475 (SOLiD)
+sortseq_T9475_Illumina,T9475_S_Illumina,T9475_G2_Illumina,sortseq,auto,,Sort-seq: diploid T9475 (Illumina replicate)
+mfaseq_T7107,T7107_exp,T7107_stat,mfaseq,rFactor,1.1369,MFA-seq: exponential vs stationary phase T7107
+hu_CAY106,CAY106_HU,CAY106_alpha,hu,auto,,HU-stalled fork origin mapping: rad53 sml1 CAY106
+syncseq_AUY077_25min,AUY077_25min,AUY077_alpha,syncseq,rFactor,1.0134,Sync-seq: 25 min after alpha-factor release
+syncseq_AUY077_30min,AUY077_30min,AUY077_alpha,syncseq,rFactor,1.0457,Sync-seq: 30 min after alpha-factor release
+syncseq_AUY077_35min,AUY077_35min,AUY077_alpha,syncseq,rFactor,1.1712,Sync-seq: 35 min after alpha-factor release
+syncseq_AUY077_40min,AUY077_40min,AUY077_alpha,syncseq,rFactor,1.3744,Sync-seq: 40 min after alpha-factor release
+syncseq_AUY077_45min,AUY077_45min,AUY077_alpha,syncseq,rFactor,1.5543,Sync-seq: 45 min after alpha-factor release
+syncseq_AUY077_50min,AUY077_50min,AUY077_alpha,syncseq,rFactor,1.6824,Sync-seq: 50 min after alpha-factor release
+syncseq_AUY077_90min,AUY077_90min,AUY077_alpha,syncseq,rFactor,1.9828,Sync-seq: 90 min after alpha-factor release
